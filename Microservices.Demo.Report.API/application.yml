@@ -20,5 +20,5 @@ RabbitMQSettings:
 ElasticApm:
     SecretToken: 
     ServerUrls: http://microservices.demo.apm-server:8200
-    ServiceName: Microservices.Demo.Policy.API
+    ServiceName: Microservices.Demo.Report.API
     Environment: production
